@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddf93be4.css",
+    "main.js": "/static/js/main.44d9eede.js",
+    "static/js/787.faa12309.chunk.js": "/static/js/787.faa12309.chunk.js",
+    "static/media/userplaceholder.png": "/static/media/userplaceholder.77d7ec1d157e8c495aa1.png",
+    "static/media/Naresh_IT_Logo.png": "/static/media/Naresh_IT_Logo.620801af0a66814de78c.png",
+    "static/media/adminlogo.jpg": "/static/media/adminlogo.58dcfe5056a6a5729a74.jpg",
+    "index.html": "/index.html",
+    "static/media/TopicTxt.txt": "/static/media/TopicTxt.6b2ef93ad72629b35c46.txt",
+    "main.ddf93be4.css.map": "/static/css/main.ddf93be4.css.map",
+    "main.44d9eede.js.map": "/static/js/main.44d9eede.js.map",
+    "787.faa12309.chunk.js.map": "/static/js/787.faa12309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddf93be4.css",
+    "static/js/main.44d9eede.js"
+  ]
+}
